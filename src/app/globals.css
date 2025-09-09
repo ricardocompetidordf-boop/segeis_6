@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+:root {
+  --background: #ffffff;
+  --foreground: #313131;
+}
+
+@theme {
+  --color-custom-blue: #1331a1;
+  --color-custom-yellow: #f8b628;
+  --color-custom-pink: #f31366;
+  --color-custom-orange: #f44528;
+  --color-custom-green: #A2Ca02;
+  --color-custom-black: #212121;
+  --color-custom-white: #ffffff;
+}
