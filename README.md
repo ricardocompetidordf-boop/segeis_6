@@ -10,3 +10,5 @@ O sistema possui 3 perfis de usuário (Administrador, Vendedor e Validador):
 Para rodar o sitema na sua propria máquina você deve ter instalado o: MySql WorkBench, Xampp, Node.js e VScode.
 
 - Para criar seu banco de dados, inicie a porta do MySql no Xampp, abra o MySQL WorkBench e execute os arquivos segeis_6_criacao_competicao.sql e segeis_6_insercao_competicao. Depois disso seu banco estará pronto para uso;
+
+Link do prototipo interativo que simula o site real:https://www.figma.com/proto/DR1JKRU037VzPBbob71xNc/segeis_6?node-id=2-2&t=BWexExMd3pGIuFrb-1
